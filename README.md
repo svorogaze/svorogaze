@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svorogaze
 - 👀 I’m interested in programming obv
-- 🌱 I’m currently learning python, will learn C++ in this/next year
-- 📫 How to reach me discord - Hawk#9226
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: discord - Hawk#9226
 
 My stats:
 
