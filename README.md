@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svorogaze
 - 👀 I’m interested in programming obv
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: discord - %хочу чулочки и юбочку🐾🐍#9226
+- 📫 How to reach me: discord - %s🐾🐍♀#9226
 
 My stats:
 
